@@ -30,3 +30,8 @@ public class Main {
 ```
 git push
 ```
+
+Получить список связанных репозиториев 
+```
+git remote
+```
